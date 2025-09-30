@@ -12,6 +12,9 @@ const AboutUs = () => {
             <Container className="mt-5 text-center">
                 <h1>Welcome to Mehandi AboutUs</h1>
                 <p>Manage your Mehandi services and bookings from here.</p>
+               
+                <p>Prerna change 1</p>
+
                 <p>Prerna Change 1</p>
 
                 {/* Back to Dashboard Button */}
