@@ -13,13 +13,7 @@ const AboutUs = () => {
                 <h1>Welcome to Mehandi AboutUs</h1>
                 <p>Manage your Mehandi services and bookings from here.</p>
 
-                <p>Main change 2</p>
-
-
-               
-                <p>Prerna change 2</p>
-
-               
+                <p>Main change 5</p>
 
                 {/* Back to Dashboard Button */}
                 <Button
